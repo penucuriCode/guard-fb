@@ -56,13 +56,10 @@ banner = '''\033[92m
 [X] Github : https://github.com/penecuriCode
 [X] Release Date : 27 - February - 2021
 [X] License : PenecuriCode
-
-[Tutorial] python guard.py --user=usernamekamu --password=passwordkamu --enable
 _____________________________________________'''
 
 par = optparse.OptionParser(   
-usage = 'usage: python %prog --user arg --password arg --enable/--disable'
-)
+usage = '[Tutorial]: python %prog --user=usernamekamu --password=passwordkamu --enable'
 par.add_option(
     '--user',help='Your Facebook Email Or Phone Number',default=None,metavar='user@mail.ex'
 )
