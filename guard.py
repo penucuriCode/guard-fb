@@ -62,7 +62,7 @@ par = optparse.OptionParser(
 usage = 'usage: python %prog --user arg --password arg --enable/--disable'
 )
 par.add_option(
-    'Tutorial Pemakaian',help='python guard.py --user=usernamekamu --password=masukanpassword --enable',default=None,metavar='user@mail.ex'
+    'Tutorial-Pemakaian',help='python guard.py --user=usernamekamu --password=masukanpassword --enable',default=None,metavar='user@mail.ex'
 )
 par.add_option(
     '--user',help='Your Facebook Email Or Phone Number',default=None,metavar='user@mail.ex'
