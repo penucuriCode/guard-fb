@@ -4,7 +4,7 @@ Facebook Profile guard make your account cool :3<br>
 ![alt text](https://img.shields.io/badge/Coded-penecuriCode-blue.svg)
 ![alt text](https://img.shields.io/badge/Size-143.00KB-yellow.svg)
 ![alt text](https://img.shields.io/badge/Python-3-green.svg)<br>
-![shot](https:
+![shot](https://github.com/penucuriCode/guard-fb/blob/main/ScreenShot.PNG)
 
 # Facebook Guard Unlocked
 - [x] can't take screenshots on your profile page
