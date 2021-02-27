@@ -59,7 +59,8 @@ banner = '''\033[92m
 _____________________________________________'''
 
 par = optparse.OptionParser(   
-usage = '[Tutorial]: python %prog --user=usernamekamu --password=passwordkamu --enable'
+usage = 'tutorial: python %prog --user=usernamekamu --password=passwordkamu --enable'
+)
 par.add_option(
     '--user',help='Your Facebook Email Or Phone Number',default=None,metavar='user@mail.ex'
 )
